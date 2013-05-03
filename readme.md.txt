@@ -1,0 +1,1 @@
+This is my first Git repository.  This will be a place for experimental and collaborative writing.
